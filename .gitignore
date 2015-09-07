@@ -26,5 +26,11 @@ proguard/
 # Log Files
 *.log
 
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
 # MacOS Files
 .DS_Store
